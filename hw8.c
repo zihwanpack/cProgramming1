@@ -12,7 +12,6 @@ double mySqrt(double x) {
 
 double calculate(int arr[], int n) {
     double sum = 0, aver, num = 0;
-
     for (int i = 0; i < n; i++) {
         sum += arr[i];
     }
